@@ -1,0 +1,49 @@
+{
+    "workflow_steps": [
+        {
+            "id": "speech",
+            "name": "Speech Analysis",
+            "description": "Analyze emotion from audio/speech",
+            "required": false,
+            "order": 1
+        },
+        {
+            "id": "text",
+            "name": "Text Analysis",
+            "description": "Analyze emotion from text input",
+            "required": false,
+            "order": 2
+        },
+        {
+            "id": "camera",
+            "name": "Camera Analysis",
+            "description": "Analyze emotion from facial expressions",
+            "required": false,
+            "order": 3
+        }
+    ],
+    "openai_config": {
+        "enabled": true,
+        "api_key": "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",
+        "model": "gpt-3.5-turbo",
+        "max_tokens": 300,
+        "temperature": 0.7,
+        "dynamic_content": true
+    },
+    "ui_config": {
+        "theme": "default",
+        "auto_generate": true,
+        "show_workflow": true,
+        "show_openai_status": true
+    },
+    "audio_config": {
+        "record_duration": 5,
+        "sample_rate": 16000,
+        "channels": 1
+    },
+    "debug_config": {
+        "log_openai_requests": true,
+        "show_terminal_logs": true,
+        "save_request_logs": true
+    }
+}

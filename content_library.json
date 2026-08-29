@@ -1,0 +1,1512 @@
+{
+  "ANGRY_ANGRY_ANGRY": [
+    "Channel that fiery energy into a high-intensity workout - let your body process what your mind is feeling.",
+    "Write a no-holds-barred letter expressing everything you feel (then safely destroy it).",
+    "Try controlled breathing: 4-second inhale, 7-second hold, 8-second exhale to calm your nervous system."
+  ],
+  "ANGRY_ANGRY_DISGUST": [
+    "Create something destructive-then-constructive: build then dismantle, write then edit aggressively.",
+    "Watch media that matches your intensity level - sometimes validation helps process heavy feelings.",
+    "Physical cleaning or organizing can help externalize that need to purge what feels toxic."
+  ],
+  "ANGRY_ANGRY_FEAR": [
+    "Ground yourself with the 5-4-3-2-1 method: name 5 things you see, 4 touch, 3 hear, 2 smell, 1 taste.",
+    "Create a 'safety plan' list - concrete steps you can take if fear escalates.",
+    "Progressive muscle relaxation: tense then release each muscle group from toes to head."
+  ],
+  "ANGRY_ANGRY_HAPPY": [
+    "Dance to high-energy music that matches your intense-but-upbeat mood.",
+    "Create bold, colorful art that expresses this complex emotional cocktail.",
+    "Channel this unique energy into tackling a challenging project you've been putting off."
+  ],
+  "ANGRY_ANGRY_NEUTRAL": [
+    "Mindful walking - focus intensely on the physical sensations of each step.",
+    "Try 'urge surfing' - observe angry impulses without acting on them until they pass.",
+    "Weighted blanket or deep pressure can help calm your nervous system while honoring the intensity."
+  ],
+  "ANGRY_ANGRY_SAD": [
+    "Scream into a pillow, then cry if needed - let the emotions move through you in waves.",
+    "Write about what's beneath the anger - often sadness hides there waiting to be acknowledged.",
+    "Watch a movie that makes you cry - sometimes we need permission to release buried sorrow."
+  ],
+  "ANGRY_ANGRY_SURPRISED": [
+    "Shake it out - literally shake your limbs to discharge the startled energy.",
+    "Play with unexpected creative outlets - try a new art form you've never attempted.",
+    "Talk it out with someone who can handle intensity while helping you process the surprise."
+  ],
+  "ANGRY_DISGUST_ANGRY": [
+    "Clean or organize a space that feels contaminated - reclaim your environment.",
+    "Express through dark humor or satire - channel that bitter energy creatively.",
+    "Hot shower or bath - literally wash away the residue of what's bothering you."
+  ],
+  "ANGRY_DISGUST_DISGUST": [
+    "Purge something physical - old clothes, expired food, digital files - externalize the cleansing.",
+    "Create boundaries visually - rearrange furniture or create personal space that feels protected.",
+    "Baking soda scrub or mint - use cleansing scents and sensations to reset your system."
+  ],
+  "ANGRY_DISGUST_FEAR": [
+    "Create a 'containment ritual' - write fears on paper and lock them away temporarily.",
+    "Watch something predictable and comforting - familiarity can soothe uncertainty.",
+    "Herbal tea with ginger or peppermint - settling for both digestion and anxiety."
+  ],
+  "ANGRY_DISGUST_HAPPY": [
+    "Contrast painting - use both dark and bright colors to express this emotional complexity.",
+    "Listen to music that shifts from aggressive to uplifting within the same song.",
+    "Cook something combining spicy and sweet flavors to mirror your emotional landscape."
+  ],
+  "ANGRY_DISGUST_NEUTRAL": [
+    "Tech detox hour - step away from whatever digital content feels toxic.",
+    "Mindful hand-washing with scented soap - ritualize the act of cleansing.",
+    "Rearrange one small area until it feels perfectly ordered and calm."
+  ],
+  "ANGRY_DISGUST_SAD": [
+    "Write an unsent letter about what's been lost or damaged.",
+    "Watch a documentary about resilience - see how others overcome difficult circumstances.",
+    "Create art with textures you find comforting despite the emotional heaviness."
+  ],
+  "ANGRY_DISGUST_SURPRISED": [
+    "Jumping jacks or brisk walking - move the shocked energy through your body.",
+    "Play with unexpected materials in art - combine things that don't normally go together.",
+    "Watch plot-twist movies that make surprise feel intentional and manageable."
+  ],
+  "ANGRY_FEAR_ANGRY": [
+    "Self-defense moves or martial arts practice - channel fear into empowered action.",
+    "Create emergency calm kit: list of people to call, comforting items, calming activities.",
+    "Write worst-case scenarios then brainstorm practical solutions for each."
+  ],
+  "ANGRY_FEAR_DISGUST": [
+    "Cleaning while listening to empowering podcasts - combine physical and mental cleansing.",
+    "Protective visualization - imagine yourself surrounded by light or armor.",
+    "Spicy food followed by soothing tea - move through intense sensations safely."
+  ],
+  "ANGRY_FEAR_FEAR": [
+    "Box breathing: equal parts inhale, hold, exhale, hold (try 4-4-4-4 count).",
+    "Create a 'fear ladder' - list anxieties from smallest to largest, tackle one step at a time.",
+    "Weighted blanket and calming audiobook - double comfort for overwhelmed nerves."
+  ],
+  "ANGRY_FEAR_HAPPY": [
+    "Watch comedies with dark humor that acknowledge fear while making you laugh.",
+    "Dance to music that starts anxious and builds to triumphant.",
+    "Create art that shows light breaking through dark, intense colors."
+  ],
+  "ANGRY_FEAR_NEUTRAL": [
+    "Progressive muscle relaxation while focusing on steady breathing.",
+    "Organize something simple but satisfying - silverware, books by color, etc.",
+    "Repeat a calming mantra while doing methodical tasks like folding laundry."
+  ],
+  "ANGRY_FEAR_SAD": [
+    "Write about what you wish could be different, then what you can actually change.",
+    "Listen to music that matches your melancholy but has a strong, steady beat.",
+    "Hot tea with honey - warmth and sweetness for both throat and heart."
+  ],
+  "ANGRY_FEAR_SURPRISED": [
+    "Shake then stretch - discharge the startled energy then calm your body.",
+    "Watch movies with satisfying plot twists where surprise leads to resolution.",
+    "Try a new recipe without reading instructions first - practice navigating uncertainty."
+  ],
+  "ANGRY_HAPPY_ANGRY": [
+    "Competitive gaming or sports - channel aggression in fun, contained ways.",
+    "Passionate debate about something you care deeply about.",
+    "Create art with contrasting styles - aggressive marks with joyful colors."
+  ],
+  "ANGRY_HAPPY_DISGUST": [
+    "Satirical comedy or parody creation - mock what bothers you creatively.",
+    "Cook with strong flavors you love alongside ingredients you typically avoid.",
+    "Write a funny-roast style letter about what's frustrating you."
+  ],
+  "ANGRY_HAPPY_FEAR": [
+    "Watch thrillers with happy endings - experience fear in safe containment.",
+    "Amusement park rides or roller coaster simulations - controlled fear/excitement.",
+    "Create art that looks scary from one angle but happy from another."
+  ],
+  "ANGRY_HAPPY_HAPPY": [
+    "Passionate singing to upbeat music - full emotional expression.",
+    "Competitive dancing or high-energy creative projects.",
+    "Social activities with people who appreciate your intensity and joy."
+  ],
+  "ANGRY_HAPPY_NEUTRAL": [
+    "Gardening - careful planting with satisfying physical effort.",
+    "Building or crafting projects that require both precision and force.",
+    "Cooking that involves both vigorous chopping and delicate seasoning."
+  ],
+  "ANGRY_HAPPY_SAD": [
+    "Watch bittersweet movies that honor life's complexities.",
+    "Create art that expresses the full spectrum of your emotional experience.",
+    "Write poetry or lyrics that move between emotional states naturally."
+  ],
+  "ANGRY_HAPPY_SURPRISED": [
+    "Improvisational comedy or theater - channel unexpected emotions creatively.",
+    "Try a new sport or game you've never played before.",
+    "Create 'surprise art' by working with materials blindfolded or with non-dominant hand."
+  ],
+  "ANGRY_NEUTRAL_ANGRY": [
+    "Wood chopping or other methodical physical labor.",
+    "Precision tasks like puzzle-solving that require focused intensity.",
+    "Strategic games like chess that channel aggressive energy mentally."
+  ],
+  "ANGRY_NEUTRAL_DISGUST": [
+    "Detailed cleaning of one small area until it feels perfectly ordered.",
+    "Organizing digital files while listening to calming but firm music.",
+    "Methodical meal prep - transforming raw ingredients into orderly meals."
+  ],
+  "ANGRY_NEUTRAL_FEAR": [
+    "Create detailed plans or lists to address what worries you.",
+    "Practice a skill slowly and methodically to build confidence.",
+    "Watch procedural shows where problems are solved systematically."
+  ],
+  "ANGRY_NEUTRAL_HAPPY": [
+    "Gardening with both vigorous digging and careful planting.",
+    "Building IKEA furniture or similar structured creative tasks.",
+    "Following complex recipes that yield delicious results."
+  ],
+  "ANGRY_NEUTRAL_NEUTRAL": [
+    "Methodical tasks like color-coding books or organizing tools.",
+    "Walking meditation with focus on steady rhythm and breath.",
+    "Repetitive crafts like knitting or weaving that calm the nervous system."
+  ],
+  "ANGRY_NEUTRAL_SAD": [
+    "Tidying up while listening to melancholic but beautiful music.",
+    "Writing in structured forms like sonnets or haiku about difficult themes.",
+    "Creating order in physical space when emotional space feels messy."
+  ],
+  "ANGRY_NEUTRAL_SURPRISED": [
+    "Sudden change to a methodical task - switch cleaning methods mid-way.",
+    "Try a new organizational system you haven't used before.",
+    "Practice responding to unexpected interruptions with deliberate calm."
+  ],
+  "ANGRY_SAD_ANGRY": [
+    "Scream-singing to emotional music in the car or shower.",
+    "Vigorous exercise followed by gentle stretching and deep breathing.",
+    "Create art that expresses the storm inside - then create something gentle."
+  ],
+  "ANGRY_SAD_DISGUST": [
+    "Cleaning out emotional clutter - old letters, photos, or momentos.",
+    "Writing about disappointments and betrayals, then safely destroying the pages.",
+    "Creating something beautiful from broken items - kintsugi philosophy."
+  ],
+  "ANGRY_SAD_FEAR": [
+    "Write fears and sorrows then brainstorm tiny acts of courage for each.",
+    "Watch films about people facing similar challenges and overcoming.",
+    "Create a 'comfort box' with items that soothe each type of pain."
+  ],
+  "ANGRY_SAD_HAPPY": [
+    "Create art that honors the complexity - joy and pain coexisting.",
+    "Listen to music that moves between emotional states naturally.",
+    "Write about bittersweet memories with honesty about all feelings involved."
+  ],
+  "ANGRY_SAD_NEUTRAL": [
+    "Gentle yoga focusing on hip openers and heart-centered poses.",
+    "Brew tea methodically while allowing emotions to simply be present.",
+    "Coloring books with complex patterns that require focus but no emotional output."
+  ],
+  "ANGRY_SAD_SAD": [
+    "Let yourself cry fully - set a timer if needed, then wash your face after.",
+    "Write about what hurts most without trying to solve or fix it yet.",
+    "Watch sad movies that give permission for full emotional expression."
+  ],
+  "ANGRY_SAD_SURPRISED": [
+    "Try a new creative outlet you have no expectations about.",
+    "Walk without destination, allowing surprises to emerge naturally.",
+    "Create art with unexpected materials that mirror emotional unpredictability."
+  ],
+  "ANGRY_SURPRISED_ANGRY": [
+    "High-intensity interval training - channel the burst of energy physically.",
+    "Improvisational drumming or loud, expressive music making.",
+    "Write stream-of-consciousness about the shock and frustration."
+  ],
+  "ANGRY_SURPRISED_DISGUST": [
+    "Cleaning something unexpectedly dirty or disorganized.",
+    "Create satire or parody about the surprising situation.",
+    "Try a new food combination that seems wrong but might be right."
+  ],
+  "ANGRY_SURPRISED_FEAR": [
+    "Grounding techniques combined with assertive self-talk.",
+    "Watch movies where characters handle unexpected crises well.",
+    "Practice emergency scenarios to build confidence in surprise situations."
+  ],
+  "ANGRY_SURPRISED_HAPPY": [
+    "Dance to music with unexpected tempo changes and joyful climaxes.",
+    "Create art that incorporates happy accidents and surprises.",
+    "Play with children or pets who naturally blend surprise and delight."
+  ],
+  "ANGRY_SURPRISED_NEUTRAL": [
+    "Sudden change to meditation when feeling startled.",
+    "Switch from chaotic task to methodical organizing mid-stream.",
+    "Practice responding to interruptions with deliberate calm."
+  ],
+  "ANGRY_SURPRISED_SAD": [
+    "Write about the emotional whiplash of unexpected sadness.",
+    "Create art that captures the moment when surprise turns painful.",
+    "Watch films that handle tragic twists with depth and respect."
+  ],
+  "ANGRY_SURPRISED_SURPRISED": [
+    "Improvisational theater exercises to practice handling surprises.",
+    "Create 'surprise art' by working with random materials or colors.",
+    "Try new activities without preparation - practice embracing uncertainty."
+  ],
+  "DISGUST_ANGRY_ANGRY": [
+    "Vigorous cleaning of something that feels contaminated or violated.",
+    "Write scathing reviews (without publishing) to vent frustration.",
+    "Destroy then create - break down old structures to build new ones."
+  ],
+  "DISGUST_ANGRY_DISGUST": [
+    "Deep cleaning while listening to empowering music.",
+    "Create boundaries physically - rearrange space to feel more protected.",
+    "Write about what feels toxic then brainstorm cleansing rituals."
+  ],
+  "DISGUST_ANGRY_FEAR": [
+    "Create safety plans while acknowledging the anger at feeling unsafe.",
+    "Watch media about people reclaiming power after violation.",
+    "Self-defense practice that channels both fear and anger productively."
+  ],
+  "DISGUST_ANGRY_HAPPY": [
+    "Create art from 'ugly' or discarded materials making them beautiful.",
+    "Comedy that finds humor in frustrating situations.",
+    "Cook with challenging ingredients transforming them into delicious meals."
+  ],
+  "DISGUST_ANGRY_NEUTRAL": [
+    "Methodical cleaning with focus on sensory details - smells, textures.",
+    "Organizing systems that create clear boundaries and order.",
+    "Brewing tea with careful attention to each step as meditation."
+  ],
+  "DISGUST_ANGRY_SAD": [
+    "Cleaning while allowing tears - literal and emotional cleansing.",
+    "Write about disappointments and what you wish had been different.",
+    "Create memorial art for what feels lost or damaged."
+  ],
+  "DISGUST_ANGRY_SURPRISED": [
+    "Clean in unexpected ways - non-dominant hand, new methods.",
+    "Create art with materials that surprise you in their transformation.",
+    "Try new cleansing rituals from different cultures or traditions."
+  ],
+  "DISGUST_DISGUST_ANGRY": [
+    "Aggressive cleaning with satisfying physical effort.",
+    "Write detailed complaints then transform them into constructive criticism.",
+    "Create 'ugly art' on purpose then find beauty in it."
+  ],
+  "DISGUST_DISGUST_DISGUST": [
+    "Full space cleansing - sage, open windows, thorough cleaning.",
+    "Digital detox - clear cookies, delete toxic apps, organize files.",
+    "Create a personal sanctuary space that feels completely clean and safe."
+  ],
+  "DISGUST_DISGUST_FEAR": [
+    "Create protective boundaries physically and digitally.",
+    "Watch shows about purification and starting fresh.",
+    "Develop personal rituals that make you feel safe and clean."
+  ],
+  "DISGUST_DISGUST_HAPPY": [
+    "Find comedy in the grotesque or absurd.",
+    "Create beauty from things others find disgusting.",
+    "Cook with challenging flavors that transform into deliciousness."
+  ],
+  "DISGUST_DISGUST_NEUTRAL": [
+    "Methodical cleaning as meditation - focus only on physical sensations.",
+    "Organizing until everything has its perfect place.",
+    "Brewing tea with precise measurements and timing."
+  ],
+  "DISGUST_DISGUST_SAD": [
+    "Gentle cleansing rituals for both space and self.",
+    "Write about what's been lost to contamination or violation.",
+    "Create art about decay and regeneration cycles."
+  ],
+  "DISGUST_DISGUST_SURPRISED": [
+    "Try unexpected cleaning methods or products.",
+    "Create art with materials that disgust then surprise you.",
+    "Watch media about unexpected transformations."
+  ],
+  "DISGUST_FEAR_ANGRY": [
+    "Create protected space then express anger safely within it.",
+    "Self-defense practice focusing on boundary setting.",
+    "Write about fears then respond with assertive solutions."
+  ],
+  "DISGUST_FEAR_DISGUST": [
+    "Cleaning as protection ritual - make environment feel safe.",
+    "Create visual boundaries and safe zones in your space.",
+    "Develop personal protection rituals that feel meaningful."
+  ],
+  "DISGUST_FEAR_FEAR": [
+    "Systematic exposure to fears while maintaining clean, safe base.",
+    "Watch shows about overcoming contamination fears.",
+    "Practice grounding techniques in increasingly challenging environments."
+  ],
+  "DISGUST_FEAR_HAPPY": [
+    "Find joy in creating safe, beautiful spaces.",
+    "Cook comforting foods that feel both safe and delicious.",
+    "Create art about protection and sanctuary."
+  ],
+  "DISGUST_FEAR_NEUTRAL": [
+    "Methodical cleaning as anxiety management.",
+    "Create organizational systems that reduce uncertainty.",
+    "Practice breathing exercises while cleaning."
+  ],
+  "DISGUST_FEAR_SAD": [
+    "Gentle cleansing of spaces associated with sadness.",
+    "Create memorials that feel pure and protected.",
+    "Write about losses while maintaining personal boundaries."
+  ],
+  "DISGUST_FEAR_SURPRISED": [
+    "Practice handling surprises in controlled, clean environments.",
+    "Create art that incorporates protected surprises.",
+    "Try new protection rituals from different traditions."
+  ],
+  "DISGUST_HAPPY_ANGRY": [
+    "Competitive cleaning games or challenges.",
+    "Create satire about frustrating but funny situations.",
+    "Cook with aggressive techniques yielding joyful results."
+  ],
+  "DISGUST_HAPPY_DISGUST": [
+    "Find humor in gross or awkward situations.",
+    "Create comedy from life's messy moments.",
+    "Play with ugly-cute aesthetics in art or fashion."
+  ],
+  "DISGUST_HAPPY_FEAR": [
+    "Watch horror-comedies that blend fear and laughter.",
+    "Create art about scary things made silly.",
+    "Play with fear in safe, contained ways that become fun."
+  ],
+  "DISGUST_HAPPY_HAPPY": [
+    "Celebrate messy joy - play in mud, bake messy treats.",
+    "Create art with happy accidents and embraced imperfections.",
+    "Dance like no one's watching with full, joyful expression."
+  ],
+  "DISGUST_HAPPY_NEUTRAL": [
+    "Find satisfaction in methodical tasks with happy outcomes.",
+    "Create systems that make life both orderly and pleasant.",
+    "Practice mindfulness during pleasant chores."
+  ],
+  "DISGUST_HAPPY_SAD": [
+    "Create art about bittersweet memories with all their complexity.",
+    "Write about sad times with compassion and humor.",
+    "Watch tragicomedies that honor life's full emotional range."
+  ],
+  "DISGUST_HAPPY_SURPRISED": [
+    "Play with unexpected material combinations in art.",
+    "Try new activities that seem gross but become fun.",
+    "Create surprise art that transforms ugly to beautiful."
+  ],
+  "DISGUST_NEUTRAL_ANGRY": [
+    "Methodical tasks with satisfying physical release.",
+    "Organize aggressively - sort with determination and purpose.",
+    "Create systems that prevent future frustrations."
+  ],
+  "DISGUST_NEUTRAL_DISGUST": [
+    "Clinical cleaning - focus on efficiency over emotion.",
+    "Create organizational systems that eliminate mess.",
+    "Practice detachment while handling unpleasant tasks."
+  ],
+  "DISGUST_NEUTRAL_FEAR": [
+    "Create failsafes and backup systems for worries.",
+    "Practice emergency preparedness calmly and methodically.",
+    "Watch shows about systematic problem-solving."
+  ],
+  "DISGUST_NEUTRAL_HAPPY": [
+    "Create orderly systems that increase daily joy.",
+    "Methodical meal prep yielding delicious results.",
+    "Organize spaces to maximize pleasant experiences."
+  ],
+  "DISGUST_NEUTRAL_NEUTRAL": [
+    "Focus entirely on physical sensations during cleaning.",
+    "Create perfect organizational systems.",
+    "Practice mindfulness during routine tasks."
+  ],
+  "DISGUST_NEUTRAL_SAD": [
+    "Gentle organizing of sentimental items.",
+    "Create order amidst emotional chaos.",
+    "Methodical tasks as grief processing."
+  ],
+  "DISGUST_NEUTRAL_SURPRISED": [
+    "Practice adapting systems to unexpected changes.",
+    "Create flexible organizational methods.",
+    "Try new cleaning methods without emotional attachment."
+  ],
+  "DISGUST_SAD_ANGRY": [
+    "Cleanse spaces associated with painful memories.",
+    "Write about disappointments then create cleansing rituals.",
+    "Create art about transformation through difficulty."
+  ],
+  "DISGUST_SAD_DISGUST": [
+    "Gentle cleansing of emotional and physical spaces.",
+    "Create beauty from painful experiences.",
+    "Write about contamination and purification cycles."
+  ],
+  "DISGUST_SAD_FEAR": [
+    "Create safe spaces for processing difficult emotions.",
+    "Watch stories about healing after violation.",
+    "Develop personal rituals for emotional protection."
+  ],
+  "DISGUST_SAD_HAPPY": [
+    "Find beauty in broken places.",
+    "Create art about healing and transformation.",
+    "Write about painful experiences with newfound perspective."
+  ],
+  "DISGUST_SAD_NEUTRAL": [
+    "Methodical cleaning as emotional processing.",
+    "Create order as foundation for healing.",
+    "Practice detachment while honoring pain."
+  ],
+  "DISGUST_SAD_SAD": [
+    "Allow tears during cleansing rituals.",
+    "Create memorials for what feels lost or damaged.",
+    "Write about grief with honesty and compassion."
+  ],
+  "DISGUST_SAD_SURPRISED": [
+    "Create art from unexpected emotional materials.",
+    "Practice handling emotional surprises with grace.",
+    "Find beauty in unexpected places of pain."
+  ],
+  "DISGUST_SURPRISED_ANGRY": [
+    "Channel surprise into determined action.",
+    "Create from unexpected frustrations.",
+    "Clean aggressively in response to shocks."
+  ],
+  "DISGUST_SURPRISED_DISGUST": [
+    "Handle unexpected messes with humor.",
+    "Create from surprising materials.",
+    "Practice adapting to unpleasant surprises."
+  ],
+  "DISGUST_SURPRISED_FEAR": [
+    "Create safety amid unexpected challenges.",
+    "Practice emergency response to disgusting surprises.",
+    "Watch shows about handling crises gracefully."
+  ],
+  "DISGUST_SURPRISED_HAPPY": [
+    "Find delight in unexpected messes.",
+    "Create happy accidents intentionally.",
+    "Play with surprising material combinations."
+  ],
+  "DISGUST_SURPRISED_NEUTRAL": [
+    "Practice clinical response to surprises.",
+    "Create systems for handling unexpected events.",
+    "Methodical approach to shocking situations."
+  ],
+  "DISGUST_SURPRISED_SAD": [
+    "Create beauty from painful surprises.",
+    "Write about unexpected losses with compassion.",
+    "Find meaning in shocking disappointments."
+  ],
+  "DISGUST_SURPRISED_SURPRISED": [
+    "Embrace multiple surprises creatively.",
+    "Create art from layered unexpected elements.",
+    "Practice flexibility in constantly changing situations."
+  ],
+  "FEAR_ANGRY_ANGRY": [
+    "Self-defense practice channeling fear into empowered action.",
+    "Write about what scares you then respond with assertive solutions.",
+    "Watch media about people facing fears with courage and anger."
+  ],
+  "FEAR_ANGRY_DISGUST": [
+    "Create protected space then express frustration safely.",
+    "Clean as boundary-setting against what feels threatening.",
+    "Write about violations then create personal protection plans."
+  ],
+  "FEAR_ANGRY_FEAR": [
+    "Practice grounding techniques while acknowledging anger.",
+    "Create emergency plans that address both fear and frustration.",
+    "Watch stories about transforming terror into determined action."
+  ],
+  "FEAR_ANGRY_HAPPY": [
+    "Find courage in joyful moments amid fear.",
+    "Create art about facing fears with hope and determination.",
+    "Watch comedies about overcoming scary situations."
+  ],
+  "FEAR_ANGRY_NEUTRAL": [
+    "Methodical preparation for feared scenarios.",
+    "Create systems that reduce uncertainty and frustration.",
+    "Practice calm response to fear triggers."
+  ],
+  "FEAR_ANGRY_SAD": [
+    "Write about scary losses with honest emotion.",
+    "Create art that honors both fear and grief.",
+    "Watch stories about grieving while afraid."
+  ],
+  "FEAR_ANGRY_SURPRISED": [
+    "Practice responding to unexpected fears assertively.",
+    "Create art about shocking revelations and responses.",
+    "Watch media about surprise attacks and recovery."
+  ],
+  "FEAR_DISGUST_ANGRY": [
+    "Create boundaries against what feels threatening and disgusting.",
+    "Clean as protection against contamination fears.",
+    "Write about violations then create cleansing rituals."
+  ],
+  "FEAR_DISGUST_DISGUST": [
+    "Systematic cleaning to reduce anxiety about contamination.",
+    "Create safe zones free from feared contaminants.",
+    "Practice exposure therapy for specific disgust fears."
+  ],
+  "FEAR_DISGUST_FEAR": [
+    "Create multiple layers of protection and safety.",
+    "Watch shows about overcoming phobias systematically.",
+    "Practice gradual exposure to feared situations."
+  ],
+  "FEAR_DISGUST_HAPPY": [
+    "Find joy in creating safe, clean spaces.",
+    "Create art about protection and sanctuary.",
+    "Cook comforting foods that feel both safe and delicious."
+  ],
+  "FEAR_DISGUST_NEUTRAL": [
+    "Methodical cleaning as anxiety management.",
+    "Create organizational systems that reduce uncertainty.",
+    "Practice breathing exercises while handling fears."
+  ],
+  "FEAR_DISGUST_SAD": [
+    "Gentle cleansing of spaces associated with sad fears.",
+    "Create memorials that feel protected and pure.",
+    "Write about losses while maintaining safety boundaries."
+  ],
+  "FEAR_DISGUST_SURPRISED": [
+    "Practice handling unexpected fears methodically.",
+    "Create systems for surprise contamination events.",
+    "Watch shows about unexpected crises and responses."
+  ],
+  "FEAR_FEAR_ANGRY": [
+    "Channel terror into determined preparation.",
+    "Create emergency plans with detailed steps.",
+    "Practice self-defense as fear management."
+  ],
+  "FEAR_FEAR_DISGUST": [
+    "Create multiple protection layers against fears.",
+    "Systematic cleaning to manage anxiety.",
+    "Practice exposure to feared situations gradually."
+  ],
+  "FEAR_FEAR_FEAR": [
+    "Box breathing: 4-second inhale, 4 hold, 4 exhale, 4 hold.",
+    "Create safety plans with concrete steps.",
+    "Watch calming shows about overcoming fears."
+  ],
+  "FEAR_FEAR_HAPPY": [
+    "Find moments of joy as courage anchors.",
+    "Create art about hope amid terror.",
+    "Watch uplifting stories about facing fears."
+  ],
+  "FEAR_FEAR_NEUTRAL": [
+    "Methodical tasks to calm racing thoughts.",
+    "Create organizational systems as anxiety management.",
+    "Practice grounding techniques repeatedly."
+  ],
+  "FEAR_FEAR_SAD": [
+    "Allow tears while maintaining safety practices.",
+    "Create art about grieving while afraid.",
+    "Write about losses with compassion for your fear."
+  ],
+  "FEAR_FEAR_SURPRISED": [
+    "Practice emergency response to unexpected fears.",
+    "Create flexible safety plans for surprises.",
+    "Watch shows about handling shocking events."
+  ],
+  "FEAR_HAPPY_ANGRY": [
+    "Channel fearful energy into passionate creation.",
+    "Create art that blends excitement and intensity.",
+    "Watch thrillers with satisfying resolutions."
+  ],
+  "FEAR_HAPPY_DISGUST": [
+    "Find humor in scary-disgusting situations.",
+    "Create comedy from life's frightening moments.",
+    "Play with horror-comedy aesthetics."
+  ],
+  "FEAR_HAPPY_FEAR": [
+    "Watch scary movies with happy endings.",
+    "Create art about facing fears with hope.",
+    "Practice courage in small, joyful ways."
+  ],
+  "FEAR_HAPPY_HAPPY": [
+    "Celebrate courageous moments with joy.",
+    "Create art about overcoming fears triumphantly.",
+    "Dance to music that moves from fearful to joyful."
+  ],
+  "FEAR_HAPPY_NEUTRAL": [
+    "Find calm amid excited fear.",
+    "Create balanced responses to thrilling situations.",
+    "Practice steady breathing during exciting events."
+  ],
+  "FEAR_HAPPY_SAD": [
+    "Create art about bittersweet courage.",
+    "Write about fearful joys and joyful fears.",
+    "Watch stories about brave happiness amid sadness."
+  ],
+  "FEAR_HAPPY_SURPRISED": [
+    "Embrace exciting surprises courageously.",
+    "Create art about delightful shocks.",
+    "Practice handling happy surprises bravely."
+  ],
+  "FEAR_NEUTRAL_ANGRY": [
+    "Channel anxious energy into methodical action.",
+    "Create detailed plans addressing fears systematically.",
+    "Practice calm assertion in fearful situations."
+  ],
+  "FEAR_NEUTRAL_DISGUST": [
+    "Methodical cleaning to manage contamination fears.",
+    "Create organizational systems against uncertainties.",
+    "Practice detached response to disgusting fears."
+  ],
+  "FEAR_NEUTRAL_FEAR": [
+    "Systematic exposure to fears with calm approach.",
+    "Create failsafe systems for anxiety management.",
+    "Practice breathing during fear triggers."
+  ],
+  "FEAR_NEUTRAL_HAPPY": [
+    "Find quiet joy amid background fears.",
+    "Create art about peaceful courage.",
+    "Practice gentle excitement in safe ways."
+  ],
+  "FEAR_NEUTRAL_NEUTRAL": [
+    "Methodical tasks as anxiety management.",
+    "Create order amid uncertainty.",
+    "Practice steady breathing during fears."
+  ],
+  "FEAR_NEUTRAL_SAD": [
+    "Allow quiet sadness amid fears.",
+    "Create orderly memorials for losses.",
+    "Write about grief with calm compassion."
+  ],
+  "FEAR_NEUTRAL_SURPRISED": [
+    "Practice calm response to unexpected fears.",
+    "Create flexible systems for surprises.",
+    "Watch shows about handling shocks methodically."
+  ],
+  "FEAR_SAD_ANGRY": [
+    "Channel fearful grief into determined action.",
+    "Create art about courageous mourning.",
+    "Write about losses with honest fear and anger."
+  ],
+  "FEAR_SAD_DISGUST": [
+    "Create protected spaces for grieving.",
+    "Gentle cleansing of sad memories.",
+    "Write about contaminated losses with compassion."
+  ],
+  "FEAR_SAD_FEAR": [
+    "Allow tears while maintaining safety practices.",
+    "Create art about grieving while afraid.",
+    "Watch stories about loss amid danger."
+  ],
+  "FEAR_SAD_HAPPY": [
+    "Find bittersweet moments of courage.",
+    "Create art about hope amid fearful grief.",
+    "Write about joyful memories despite current fears."
+  ],
+  "FEAR_SAD_NEUTRAL": [
+    "Methodical tasks as grief processing.",
+    "Create order amid emotional chaos.",
+    "Practice steady breathing during sad fears."
+  ],
+  "FEAR_SAD_SAD": [
+    "Allow full expression of fearful grief.",
+    "Create memorials that acknowledge danger.",
+    "Write about losses with honest terror and sorrow."
+  ],
+  "FEAR_SAD_SURPRISED": [
+    "Practice handling shocking losses with grace.",
+    "Create art about unexpected grief.",
+    "Watch stories about surprise tragedies and recovery."
+  ],
+  "FEAR_SURPRISED_ANGRY": [
+    "Channel shocked fear into determined action.",
+    "Create emergency response plans for surprises.",
+    "Practice assertive response to unexpected fears."
+  ],
+  "FEAR_SURPRISED_DISGUST": [
+    "Handle shocking contamination methodically.",
+    "Create systems for unexpected disgusting events.",
+    "Practice calm response to surprise violations."
+  ],
+  "FEAR_SURPRISED_FEAR": [
+    "Practice grounding during unexpected fears.",
+    "Create flexible safety plans for surprises.",
+    "Watch shows about handling shocking events."
+  ],
+  "FEAR_SURPRISED_HAPPY": [
+    "Find delight in surprising fears.",
+    "Create art about exciting shocks.",
+    "Practice handling thrilling surprises bravely."
+  ],
+  "FEAR_SURPRISED_NEUTRAL": [
+    "Practice methodical response to unexpected fears.",
+    "Create adaptable systems for surprises.",
+    "Watch shows about calm crisis management."
+  ],
+  "FEAR_SURPRISED_SAD": [
+    "Handle shocking losses with compassion.",
+    "Create art about unexpected grief.",
+    "Write about surprise tragedies with honesty."
+  ],
+  "FEAR_SURPRISED_SURPRISED": [
+    "Practice handling multiple surprises courageously.",
+    "Create art about layered shocking events.",
+    "Watch stories about compound crises and recovery."
+  ],
+  "HAPPY_ANGRY_ANGRY": [
+    "Passionate debate about things you care deeply about.",
+    "Competitive sports or gaming with intense enjoyment.",
+    "Create bold art with vibrant colors and strong lines."
+  ],
+  "HAPPY_ANGRY_DISGUST": [
+    "Satirical comedy creation about frustrating topics.",
+    "Cook with strong flavors combining sweet and spicy.",
+    "Create art that finds beauty in ugly subjects."
+  ],
+  "HAPPY_ANGRY_FEAR": [
+    "Watch thrilling movies with satisfying resolutions.",
+    "Create art about facing fears with hope and intensity.",
+    "Practice courageous actions with passionate energy."
+  ],
+  "HAPPY_ANGRY_HAPPY": [
+    "Energetic dancing to powerful, joyful music.",
+    "Create passionate art with vibrant expression.",
+    "Engage in heated discussions about beloved topics."
+  ],
+  "HAPPY_ANGRY_NEUTRAL": [
+    "Methodical tasks with satisfying physical elements.",
+    "Create balanced art with both intensity and calm.",
+    "Practice passionate focus on detailed work."
+  ],
+  "HAPPY_ANGRY_SAD": [
+    "Create art about life's full emotional complexity.",
+    "Write about bittersweet experiences with honesty.",
+    "Watch dramas that honor mixed emotions."
+  ],
+  "HAPPY_ANGRY_SURPRISED": [
+    "Improvisational theater with emotional range.",
+    "Create surprise art with passionate elements.",
+    "Practice handling unexpected intensity joyfully."
+  ],
+  "HAPPY_DISGUST_ANGRY": [
+    "Create comedy from frustrating-disgusting situations.",
+    "Cook challenging ingredients with passionate technique.",
+    "Make art that transforms ugly subjects beautifully."
+  ],
+  "HAPPY_DISGUST_DISGUST": [
+    "Find humor in life's gross moments.",
+    "Create ugly-cute art intentionally.",
+    "Play with disgusting materials in fun ways."
+  ],
+  "HAPPY_DISGUST_FEAR": [
+    "Watch horror-comedies that blend fear and laughter.",
+    "Create art about scary things made silly.",
+    "Practice handling fears with humor."
+  ],
+  "HAPPY_DISGUST_HAPPY": [
+    "Celebrate messy joy without reservation.",
+    "Create art with happy accidents embraced.",
+    "Dance wildly without worrying about appearance."
+  ],
+  "HAPPY_DISGUST_NEUTRAL": [
+    "Find satisfaction in methodical messy tasks.",
+    "Create systems that handle disorder beautifully.",
+    "Practice calm amid happy chaos."
+  ],
+  "HAPPY_DISGUST_SAD": [
+    "Create art about bittersweet messiness.",
+    "Write about sad but funny memories.",
+    "Watch tragicomedies with full emotional range."
+  ],
+  "HAPPY_DISGUST_SURPRISED": [
+    "Play with unexpected gross-fun combinations.",
+    "Create surprise art with disgusting elements.",
+    "Practice handling shocking messes with humor."
+  ],
+  "HAPPY_FEAR_ANGRY": [
+    "Channel excited fear into passionate action.",
+    "Create art about thrilling intensity.",
+    "Watch action movies with satisfying resolutions."
+  ],
+  "HAPPY_FEAR_DISGUST": [
+    "Find fun in scary-disgusting situations.",
+    "Create comedy from frightening grossness.",
+    "Play with horror-comedy aesthetics joyfully."
+  ],
+  "HAPPY_FEAR_FEAR": [
+    "Watch thrilling movies with happy endings.",
+    "Create art about exciting dangers.",
+    "Practice courageous fun in safe ways."
+  ],
+  "HAPPY_FEAR_HAPPY": [
+    "Celebrate thrilling moments with joy.",
+    "Create art about adventurous happiness.",
+    "Engage in exciting activities with full enjoyment."
+  ],
+  "HAPPY_FEAR_NEUTRAL": [
+    "Find calm amid exciting fears.",
+    "Create balanced responses to thrills.",
+    "Practice steady enjoyment of excitement."
+  ],
+  "HAPPY_FEAR_SAD": [
+    "Create art about bittersweet excitement.",
+    "Write about fearful joys with complexity.",
+    "Watch stories about brave happiness amid sadness."
+  ],
+  "HAPPY_FEAR_SURPRISED": [
+    "Embrace exciting surprises joyfully.",
+    "Create art about delightful shocks.",
+    "Practice handling thrilling surprises bravely."
+  ],
+  "HAPPY_HAPPY_ANGRY": [
+    "Passionate celebration of intense joys.",
+    "Create vibrant art with powerful energy.",
+    "Engage in heated discussions about beloved topics."
+  ],
+  "HAPPY_HAPPY_DISGUST": [
+    "Find joy in life's messy moments.",
+    "Create art that celebrates imperfection.",
+    "Play with ugly-cute aesthetics happily."
+  ],
+  "HAPPY_HAPPY_FEAR": [
+    "Celebrate courageous joy amid fears.",
+    "Create art about brave happiness.",
+    "Practice exciting activities with full enjoyment."
+  ],
+  "HAPPY_HAPPY_HAPPY": [
+    "Dance with abandon to favorite music.",
+    "Create art with pure joyful expression.",
+    "Share laughter with loved ones freely."
+  ],
+  "HAPPY_HAPPY_NEUTRAL": [
+    "Enjoy calm contentment fully.",
+    "Create art about peaceful joy.",
+    "Practice mindful appreciation of simple pleasures."
+  ],
+  "HAPPY_HAPPY_SAD": [
+    "Create art about life's beautiful sadness.",
+    "Write about bittersweet memories with love.",
+    "Watch stories that honor complex happiness."
+  ],
+  "HAPPY_HAPPY_SURPRISED": [
+    "Celebrate delightful surprises joyfully.",
+    "Create art about happy shocks.",
+    "Practice embracing unexpected joys fully."
+  ],
+  "HAPPY_NEUTRAL_ANGRY": [
+    "Channel quiet intensity into focused action.",
+    "Create art with controlled passion.",
+    "Practice determined focus on enjoyable tasks."
+  ],
+  "HAPPY_NEUTRAL_DISGUST": [
+    "Find satisfaction in orderly messy tasks.",
+    "Create systems that handle chaos beautifully.",
+    "Practice calm enjoyment of imperfect situations."
+  ],
+  "HAPPY_NEUTRAL_FEAR": [
+    "Enjoy exciting activities with measured approach.",
+    "Create art about calm courage.",
+    "Practice steady enjoyment of thrills."
+  ],
+  "HAPPY_NEUTRAL_HAPPY": [
+    "Savor quiet contentment deeply.",
+    "Create art about peaceful joy.",
+    "Practice mindful appreciation of simple pleasures."
+  ],
+  "HAPPY_NEUTRAL_NEUTRAL": [
+    "Enjoy balanced calm with subtle happiness.",
+    "Create art about serene moments.",
+    "Practice mindful presence in ordinary activities."
+  ],
+  "HAPPY_NEUTRAL_SAD": [
+    "Create art about quiet bittersweet moments.",
+    "Write about gentle sadness with compassion.",
+    "Practice balanced response to mixed emotions."
+  ],
+  "HAPPY_NEUTRAL_SURPRISED": [
+    "Enjoy unexpected calm pleasures.",
+    "Create art about serene surprises.",
+    "Practice handling shocks with steady joy."
+  ],
+  "HAPPY_SAD_ANGRY": [
+    "Create art about passionate grief.",
+    "Write about intense bittersweet experiences.",
+    "Watch dramas about complex emotional landscapes."
+  ],
+  "HAPPY_SAD_DISGUST": [
+    "Find beauty in painful messy situations.",
+    "Create art about ugly-beautiful memories.",
+    "Write about complicated losses with honesty."
+  ],
+  "HAPPY_SAD_FEAR": [
+    "Create art about courageous sadness.",
+    "Write about fearful joys and joyful fears.",
+    "Watch stories about brave grief."
+  ],
+  "HAPPY_SAD_HAPPY": [
+    "Celebrate life's beautiful complexity.",
+    "Create art about bittersweet existence.",
+    "Write about joyful sadness with depth."
+  ],
+  "HAPPY_SAD_NEUTRAL": [
+    "Find calm amid emotional complexity.",
+    "Create art about balanced mixed feelings.",
+    "Practice steady presence with all emotions."
+  ],
+  "HAPPY_SAD_SAD": [
+    "Allow full expression of bittersweet grief.",
+    "Create art about beautiful sadness.",
+    "Write about losses with love and sorrow."
+  ],
+  "HAPPY_SAD_SURPRISED": [
+    "Handle unexpected emotional complexity gracefully.",
+    "Create art about surprising bittersweet moments.",
+    "Practice responding to emotional shocks with depth."
+  ],
+  "HAPPY_SURPRISED_ANGRY": [
+    "Channel shocked joy into passionate action.",
+    "Create art about intense surprises.",
+    "Practice handling exciting shocks with energy."
+  ],
+  "HAPPY_SURPRISED_DISGUST": [
+    "Find fun in surprising grossness.",
+    "Create art about delightful disgusting surprises.",
+    "Practice handling shocking messes with humor."
+  ],
+  "HAPPY_SURPRISED_FEAR": [
+    "Enjoy thrilling surprises courageously.",
+    "Create art about exciting shocks.",
+    "Practice handling scary surprises bravely."
+  ],
+  "HAPPY_SURPRISED_HAPPY": [
+    "Celebrate delightful surprises fully.",
+    "Create art about joyful shocks.",
+    "Practice embracing happy surprises with abandon."
+  ],
+  "HAPPY_SURPRISED_NEUTRAL": [
+    "Enjoy unexpected calm pleasures.",
+    "Create art about serene surprises.",
+    "Practice handling shocks with steady joy."
+  ],
+  "HAPPY_SURPRISED_SAD": [
+    "Handle bittersweet surprises gracefully.",
+    "Create art about unexpectedly sad joys.",
+    "Practice responding to emotional shocks with depth."
+  ],
+  "HAPPY_SURPRISED_SURPRISED": [
+    "Celebrate multiple surprises joyfully.",
+    "Create art about layered delightful shocks.",
+    "Practice handling compound surprises with grace."
+  ],
+  "NEUTRAL_ANGRY_ANGRY": [
+    "Channel quiet intensity into methodical action.",
+    "Create detailed plans addressing frustrations.",
+    "Practice calm assertion in intense situations."
+  ],
+  "NEUTRAL_ANGRY_DISGUST": [
+    "Methodical cleaning to manage frustrations.",
+    "Create organizational systems against irritations.",
+    "Practice detached response to annoying situations."
+  ],
+  "NEUTRAL_ANGRY_FEAR": [
+    "Systematic preparation for anxiety-provoking situations.",
+    "Create failsafe systems for stressful scenarios.",
+    "Practice calm response to fear triggers."
+  ],
+  "NEUTRAL_ANGRY_HAPPY": [
+    "Find quiet satisfaction in intense moments.",
+    "Create art about calm passion.",
+    "Practice steady enjoyment of strong emotions."
+  ],
+  "NEUTRAL_ANGRY_NEUTRAL": [
+    "Methodical tasks as frustration management.",
+    "Create order amid intensity.",
+    "Practice steady breathing during angry moments."
+  ],
+  "NEUTRAL_ANGRY_SAD": [
+    "Allow quiet sadness amid frustrations.",
+    "Create orderly responses to emotional pain.",
+    "Write about grief with calm intensity."
+  ],
+  "NEUTRAL_ANGRY_SURPRISED": [
+    "Practice calm response to unexpected intensity.",
+    "Create flexible systems for surprises.",
+    "Watch shows about handling shocks methodically."
+  ],
+  "NEUTRAL_DISGUST_ANGRY": [
+    "Channel quiet disgust into systematic action.",
+    "Create detailed cleaning plans.",
+    "Practice methodical response to irritating situations."
+  ],
+  "NEUTRAL_DISGUST_DISGUST": [
+    "Systematic cleaning to manage aversion.",
+    "Create organizational systems against mess.",
+    "Practice detached response to disgusting situations."
+  ],
+  "NEUTRAL_DISGUST_FEAR": [
+    "Methodical preparation for anxiety about contamination.",
+    "Create failsafe systems for disgusting fears.",
+    "Practice calm response to disgust triggers."
+  ],
+  "NEUTRAL_DISGUST_HAPPY": [
+    "Find quiet satisfaction in orderly cleaning.",
+    "Create art about calm transformation.",
+    "Practice steady enjoyment of cleansing tasks."
+  ],
+  "NEUTRAL_DISGUST_NEUTRAL": [
+    "Methodical tasks as aversion management.",
+    "Create order amid disgust.",
+    "Practice steady breathing during unpleasant tasks."
+  ],
+  "NEUTRAL_DISGUST_SAD": [
+    "Allow quiet sadness amid disgust.",
+    "Create orderly responses to painful situations.",
+    "Write about losses with calm detachment."
+  ],
+  "NEUTRAL_DISGUST_SURPRISED": [
+    "Practice calm response to unexpected disgust.",
+    "Create flexible cleaning systems for surprises.",
+    "Watch shows about handling shocks methodically."
+  ],
+  "NEUTRAL_FEAR_ANGRY": [
+    "Channel anxious energy into systematic preparation.",
+    "Create detailed safety plans.",
+    "Practice calm assertion in fearful situations."
+  ],
+  "NEUTRAL_FEAR_DISGUST": [
+    "Methodical cleaning to manage contamination fears.",
+    "Create organizational systems against uncertainties.",
+    "Practice detached response to disgusting fears."
+  ],
+  "NEUTRAL_FEAR_FEAR": [
+    "Systematic exposure to fears with calm approach.",
+    "Create failsafe systems for anxiety management.",
+    "Practice breathing during fear triggers."
+  ],
+  "NEUTRAL_FEAR_HAPPY": [
+    "Find quiet joy amid background fears.",
+    "Create art about peaceful courage.",
+    "Practice gentle excitement in safe ways."
+  ],
+  "NEUTRAL_FEAR_NEUTRAL": [
+    "Methodical tasks as anxiety management.",
+    "Create order amid uncertainty.",
+    "Practice steady breathing during fears."
+  ],
+  "NEUTRAL_FEAR_SAD": [
+    "Allow quiet sadness amid fears.",
+    "Create orderly memorials for losses.",
+    "Write about grief with calm compassion."
+  ],
+  "NEUTRAL_FEAR_SURPRISED": [
+    "Practice calm response to unexpected fears.",
+    "Create flexible systems for surprises.",
+    "Watch shows about handling shocks methodically."
+  ],
+  "NEUTRAL_HAPPY_ANGRY": [
+    "Channel quiet intensity into focused enjoyment.",
+    "Create art with controlled passion.",
+    "Practice determined focus on pleasant tasks."
+  ],
+  "NEUTRAL_HAPPY_DISGUST": [
+    "Find satisfaction in orderly messy tasks.",
+    "Create systems that handle chaos beautifully.",
+    "Practice calm enjoyment of imperfect situations."
+  ],
+  "NEUTRAL_HAPPY_FEAR": [
+    "Enjoy exciting activities with measured approach.",
+    "Create art about calm courage.",
+    "Practice steady enjoyment of thrills."
+  ],
+  "NEUTRAL_HAPPY_HAPPY": [
+    "Savor quiet contentment deeply.",
+    "Create art about peaceful joy.",
+    "Practice mindful appreciation of simple pleasures."
+  ],
+  "NEUTRAL_HAPPY_NEUTRAL": [
+    "Enjoy balanced calm with subtle happiness.",
+    "Create art about serene moments.",
+    "Practice mindful presence in ordinary activities."
+  ],
+  "NEUTRAL_HAPPY_SAD": [
+    "Create art about quiet bittersweet moments.",
+    "Write about gentle sadness with compassion.",
+    "Practice balanced response to mixed emotions."
+  ],
+  "NEUTRAL_HAPPY_SURPRISED": [
+    "Enjoy unexpected calm pleasures.",
+    "Create art about serene surprises.",
+    "Practice handling shocks with steady joy."
+  ],
+  "NEUTRAL_NEUTRAL_ANGRY": [
+    "Channel subtle intensity into focused tasks.",
+    "Create detailed work with careful attention.",
+    "Practice calm presence amid mild frustration."
+  ],
+  "NEUTRAL_NEUTRAL_DISGUST": [
+    "Methodical cleaning with minimal emotion.",
+    "Create perfect organizational systems.",
+    "Practice detached response to minor irritations."
+  ],
+  "NEUTRAL_NEUTRAL_FEAR": [
+    "Systematic preparation for potential worries.",
+    "Create orderly systems for uncertainty management.",
+    "Practice calm breathing during mild anxiety."
+  ],
+  "NEUTRAL_NEUTRAL_HAPPY": [
+    "Enjoy quiet contentment methodically.",
+    "Create art about serene moments.",
+    "Practice mindful appreciation of calm pleasures."
+  ],
+  "NEUTRAL_NEUTRAL_NEUTRAL": [
+    "Focus on physical sensations during routine tasks.",
+    "Create perfect order in small areas.",
+    "Practice mindful breathing during ordinary moments."
+  ],
+  "NEUTRAL_NEUTRAL_SAD": [
+    "Allow quiet sadness without intensification.",
+    "Create orderly responses to gentle grief.",
+    "Write about losses with calm compassion."
+  ],
+  "NEUTRAL_NEUTRAL_SURPRISED": [
+    "Practice calm response to minor surprises.",
+    "Create flexible systems for small changes.",
+    "Watch shows about handling everyday shocks."
+  ],
+  "NEUTRAL_SAD_ANGRY": [
+    "Channel quiet grief into systematic action.",
+    "Create detailed memorials or tributes.",
+    "Practice calm presence with painful emotions."
+  ],
+  "NEUTRAL_SAD_DISGUST": [
+    "Methodical cleaning of sentimental spaces.",
+    "Create orderly systems for emotional processing.",
+    "Practice detached response to painful situations."
+  ],
+  "NEUTRAL_SAD_FEAR": [
+    "Systematic preparation for grief-related anxieties.",
+    "Create failsafe systems for sad fears.",
+    "Practice calm breathing during grieving moments."
+  ],
+  "NEUTRAL_SAD_HAPPY": [
+    "Find quiet joy amid gentle sadness.",
+    "Create art about peaceful bittersweet moments.",
+    "Practice balanced appreciation of mixed emotions."
+  ],
+  "NEUTRAL_SAD_NEUTRAL": [
+    "Methodical tasks as grief processing.",
+    "Create order amid emotional pain.",
+    "Practice steady breathing during sad moments."
+  ],
+  "NEUTRAL_SAD_SAD": [
+    "Allow quiet sadness without intensification.",
+    "Create orderly memorials for losses.",
+    "Write about grief with calm compassion."
+  ],
+  "NEUTRAL_SAD_SURPRISED": [
+    "Practice calm response to unexpected grief.",
+    "Create flexible systems for emotional surprises.",
+    "Watch shows about handling shocking losses."
+  ],
+  "NEUTRAL_SURPRISED_ANGRY": [
+    "Channel shocked energy into systematic action.",
+    "Create detailed plans for unexpected situations.",
+    "Practice calm response to surprising intensity."
+  ],
+  "NEUTRAL_SURPRISED_DISGUST": [
+    "Methodical cleaning of unexpected messes.",
+    "Create flexible systems for surprising situations.",
+    "Practice detached response to shocking disgust."
+  ],
+  "NEUTRAL_SURPRISED_FEAR": [
+    "Systematic preparation for unexpected fears.",
+    "Create adaptable safety plans for surprises.",
+    "Practice calm breathing during shocking events."
+  ],
+  "NEUTRAL_SURPRISED_HAPPY": [
+    "Enjoy unexpected calm pleasures methodically.",
+    "Create art about serene surprises.",
+    "Practice steady appreciation of happy shocks."
+  ],
+  "NEUTRAL_SURPRISED_NEUTRAL": [
+    "Practice methodical response to surprises.",
+    "Create flexible systems for unexpected events.",
+    "Watch shows about handling shocks calmly."
+  ],
+  "NEUTRAL_SURPRISED_SAD": [
+    "Handle unexpected grief with calm compassion.",
+    "Create orderly responses to shocking losses.",
+    "Practice steady breathing during sad surprises."
+  ],
+  "NEUTRAL_SURPRISED_SURPRISED": [
+    "Practice methodical response to multiple surprises.",
+    "Create adaptable systems for compound shocks.",
+    "Watch shows about handling layered unexpected events."
+  ],
+  "SAD_ANGRY_ANGRY": [
+    "Write unsent letters expressing full emotional intensity.",
+    "Create art that channels grief and rage into powerful expression.",
+    "Vigorous exercise followed by gentle stretching and tears."
+  ],
+  "SAD_ANGRY_DISGUST": [
+    "Clean spaces associated with painful memories aggressively.",
+    "Write about betrayals and disappointments with raw honesty.",
+    "Create art from broken items representing what's been damaged."
+  ],
+  "SAD_ANGRY_FEAR": [
+    "Write about scary losses with full emotional range.",
+    "Create art that expresses terror and grief simultaneously.",
+    "Practice grounding techniques while acknowledging painful anger."
+  ],
+  "SAD_ANGRY_HAPPY": [
+    "Create art about complex emotional landscapes.",
+    "Write about bittersweet memories with all feelings honored.",
+    "Watch films that handle emotional complexity with depth."
+  ],
+  "SAD_ANGRY_NEUTRAL": [
+    "Methodical tasks as emotional processing.",
+    "Create order amid grief and frustration.",
+    "Practice steady breathing during intense emotional pain."
+  ],
+  "SAD_ANGRY_SAD": [
+    "Allow full expression of grieving anger.",
+    "Create art about deep sorrow with intense edges.",
+    "Write about losses with raw, honest emotion."
+  ],
+  "SAD_ANGRY_SURPRISED": [
+    "Handle shocking emotional pain with compassion.",
+    "Create art about unexpected grief and anger.",
+    "Practice responding to emotional surprises with depth."
+  ],
+  "SAD_DISGUST_ANGRY": [
+    "Clean emotional clutter with determined energy.",
+    "Write about violations and disappointments thoroughly.",
+    "Create art that transforms painful disgust into beauty."
+  ],
+  "SAD_DISGUST_DISGUST": [
+    "Gentle cleansing of spaces holding sad memories.",
+    "Create art about decay and regeneration cycles.",
+    "Write about losses with honest disgust and sorrow."
+  ],
+  "SAD_DISGUST_FEAR": [
+    "Create protected spaces for grieving safely.",
+    "Write about scary disappointments with compassion.",
+    "Practice grounding during fearful disgust."
+  ],
+  "SAD_DISGUST_HAPPY": [
+    "Find beauty in painful complicated situations.",
+    "Create art about bittersweet transformations.",
+    "Write about messy joys and painful beauties."
+  ],
+  "SAD_DISGUST_NEUTRAL": [
+    "Methodical cleaning as grief processing.",
+    "Create order amid emotional messiness.",
+    "Practice steady breathing during complicated grief."
+  ],
+  "SAD_DISGUST_SAD": [
+    "Allow full expression of complicated grief.",
+    "Create art about sorrow with disgusting edges.",
+    "Write about losses with all their messy reality."
+  ],
+  "SAD_DISGUST_SURPRISED": [
+    "Handle shocking complicated grief gracefully.",
+    "Create art about unexpected messy emotions.",
+    "Practice responding to emotional surprises with complexity."
+  ],
+  "SAD_FEAR_ANGRY": [
+    "Channel fearful grief into determined action.",
+    "Create art about courageous mourning.",
+    "Write about scary losses with assertive honesty."
+  ],
+  "SAD_FEAR_DISGUST": [
+    "Create safe spaces for complicated grieving.",
+    "Write about fearful disgust with compassion.",
+    "Practice grounding during scary disappointing situations."
+  ],
+  "SAD_FEAR_FEAR": [
+    "Allow tears while maintaining safety practices.",
+    "Create art about terrifying grief.",
+    "Write about losses that scare you deeply."
+  ],
+  "SAD_FEAR_HAPPY": [
+    "Find courage in bittersweet moments.",
+    "Create art about hopeful grief.",
+    "Write about joyful memories despite current fears."
+  ],
+  "SAD_FEAR_NEUTRAL": [
+    "Methodical tasks as fear-grief processing.",
+    "Create order amid terrifying sadness.",
+    "Practice steady breathing during fearful grief."
+  ],
+  "SAD_FEAR_SAD": [
+    "Allow full expression of fearful grief.",
+    "Create art about deep sorrow with terror.",
+    "Write about losses that frighten you profoundly."
+  ],
+  "SAD_FEAR_SURPRISED": [
+    "Handle shocking fearful grief with compassion.",
+    "Create art about unexpectedly terrifying losses.",
+    "Practice responding to scary emotional surprises."
+  ],
+  "SAD_HAPPY_ANGRY": [
+    "Create art about passionate bittersweet experiences.",
+    "Write about complex emotional landscapes with depth.",
+    "Watch films that honor life's full emotional range."
+  ],
+  "SAD_HAPPY_DISGUST": [
+    "Find beauty in painful messy joys.",
+    "Create art about complicated happiness.",
+    "Write about bittersweet moments with all their messiness."
+  ],
+  "SAD_HAPPY_FEAR": [
+    "Create art about courageous bittersweetness.",
+    "Write about fearful joys and joyful fears.",
+    "Practice handling complex emotions bravely."
+  ],
+  "SAD_HAPPY_HAPPY": [
+    "Celebrate life's beautiful complexity fully.",
+    "Create art about joyful sadness.",
+    "Write about happiness that contains grief gracefully."
+  ],
+  "SAD_HAPPY_NEUTRAL": [
+    "Find calm amid emotional complexity.",
+    "Create art about balanced bittersweet moments.",
+    "Practice steady presence with all emotions."
+  ],
+  "SAD_HAPPY_SAD": [
+    "Allow full expression of bittersweet grief.",
+    "Create art about beautiful sadness.",
+    "Write about losses with love and sorrow intertwined."
+  ],
+  "SAD_HAPPY_SURPRISED": [
+    "Handle unexpected emotional complexity gracefully.",
+    "Create art about surprising bittersweet moments.",
+    "Practice responding to emotional shocks with depth."
+  ],
+  "SAD_NEUTRAL_ANGRY": [
+    "Channel quiet grief into systematic action.",
+    "Create detailed memorials or tributes.",
+    "Practice calm presence with painful intensity."
+  ],
+  "SAD_NEUTRAL_DISGUST": [
+    "Methodical cleaning of sentimental spaces.",
+    "Create orderly systems for emotional processing.",
+    "Practice detached response to painful situations."
+  ],
+  "SAD_NEUTRAL_FEAR": [
+    "Systematic preparation for grief-related anxieties.",
+    "Create failsafe systems for sad fears.",
+    "Practice calm breathing during grieving moments."
+  ],
+  "SAD_NEUTRAL_HAPPY": [
+    "Find quiet joy amid gentle sadness.",
+    "Create art about peaceful bittersweet moments.",
+    "Practice balanced appreciation of mixed emotions."
+  ],
+  "SAD_NEUTRAL_NEUTRAL": [
+    "Methodical tasks as grief processing.",
+    "Create order amid emotional pain.",
+    "Practice steady breathing during sad moments."
+  ],
+  "SAD_NEUTRAL_SAD": [
+    "Allow quiet sadness without intensification.",
+    "Create orderly memorials for losses.",
+    "Write about grief with calm compassion."
+  ],
+  "SAD_NEUTRAL_SURPRISED": [
+    "Practice calm response to unexpected grief.",
+    "Create flexible systems for emotional surprises.",
+    "Watch shows about handling shocking losses."
+  ],
+  "SAD_SAD_ANGRY": [
+    "Channel deep grief into powerful expression.",
+    "Create art about profound sorrow with intensity.",
+    "Write about losses with raw, deep emotion."
+  ],
+  "SAD_SAD_DISGUST": [
+    "Create art about deep painful transformations.",
+    "Write about profound disappointments with honesty.",
+    "Practice grounding during intense complicated grief."
+  ],
+  "SAD_SAD_FEAR": [
+    "Allow deep expression of terrifying grief.",
+    "Create art about profound sorrow with fear.",
+    "Write about losses that terrify you deeply."
+  ],
+  "SAD_SAD_HAPPY": [
+    "Find profound beauty in deep sadness.",
+    "Create art about the poetry of grief.",
+    "Write about losses with deep love and sorrow."
+  ],
+  "SAD_SAD_NEUTRAL": [
+    "Methodical tasks as deep grief processing.",
+    "Create order amid profound sadness.",
+    "Practice steady breathing during intense grief."
+  ],
+  "SAD_SAD_SAD": [
+    "Allow full expression of profound grief.",
+    "Create art about deep sorrow.",
+    "Write about losses with complete emotional honesty."
+  ],
+  "SAD_SAD_SURPRISED": [
+    "Handle shocking profound grief with compassion.",
+    "Create art about unexpectedly deep losses.",
+    "Practice responding to profound emotional surprises."
+  ],
+  "SAD_SURPRISED_ANGRY": [
+    "Channel shocked grief into determined action.",
+    "Create art about surprising intense losses.",
+    "Write about unexpected tragedies with raw emotion."
+  ],
+  "SAD_SURPRISED_DISGUST": [
+    "Handle shocking complicated grief gracefully.",
+    "Create art about unexpectedly messy emotions.",
+    "Write about surprising disappointments with honesty."
+  ],
+  "SAD_SURPRISED_FEAR": [
+    "Practice grounding during shocking fearful grief.",
+    "Create art about unexpectedly terrifying losses.",
+    "Write about surprising scary tragedies."
+  ],
+  "SAD_SURPRISED_HAPPY": [
+    "Find beauty in surprising bittersweet moments.",
+    "Create art about unexpectedly complex emotions.",
+    "Write about shocking joyful-sad experiences."
+  ],
+  "SAD_SURPRISED_NEUTRAL": [
+    "Practice calm response to unexpected grief.",
+    "Create flexible systems for emotional surprises.",
+    "Watch shows about handling shocking losses."
+  ],
+  "SAD_SURPRISED_SAD": [
+    "Handle shocking grief with deep compassion.",
+    "Create art about unexpectedly profound losses.",
+    "Write about surprising tragedies with honesty."
+  ],
+  "SAD_SURPRISED_SURPRISED": [
+    "Practice responding to multiple emotional shocks.",
+    "Create art about layered surprising grief.",
+    "Write about compound unexpected losses."
+  ],
+  "SURPRISED_ANGRY_ANGRY": [
+    "Channel shocked intensity into powerful action.",
+    "Create art about surprising fury.",
+    "Practice assertive response to unexpected intensity."
+  ],
+  "SURPRISED_ANGRY_DISGUST": [
+    "Handle shocking disgusting situations assertively.",
+    "Create art about surprising violations.",
+    "Practice determined response to unexpected messes."
+  ],
+  "SURPRISED_ANGRY_FEAR": [
+    "Channel shocked fear into determined action.",
+    "Create art about surprising terrifying situations.",
+    "Practice courageous response to unexpected dangers."
+  ],
+  "SURPRISED_ANGRY_HAPPY": [
+    "Handle surprising intense joy with energy.",
+    "Create art about shocking passionate moments.",
+    "Practice energetic response to unexpected excitement."
+  ],
+  "SURPRISED_ANGRY_NEUTRAL": [
+    "Practice calm response to surprising intensity.",
+    "Create flexible systems for unexpected frustrations.",
+    "Watch shows about handling shocking challenges."
+  ],
+  "SURPRISED_ANGRY_SAD": [
+    "Handle surprising painful intensity with compassion.",
+    "Create art about unexpectedly angry grief.",
+    "Practice deep response to shocking emotional pain."
+  ],
+  "SURPRISED_ANGRY_SURPRISED": [
+    "Channel multiple surprises into powerful action.",
+    "Create art about layered shocking intensity.",
+    "Practice assertive response to compound surprises."
+  ],
+    "MIXED": [
+    "Channel multiple surprises into powerful action.",
+    "Create art about layered shocking intensity.",
+    "Practice assertive response to compound surprises."
+  ]
+}
