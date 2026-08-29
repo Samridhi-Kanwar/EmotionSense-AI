@@ -1,0 +1,260 @@
+Timestamp,File Name,Predicted Emotion
+2025-04-09 18:42:59,OAF_bean_happy.wav,
+2025-04-09 18:43:32,OAF_bar_happy.wav,HAPPY
+2025-04-09 18:43:46,OAF_back_angry.wav,ANGRY
+2025-04-09 18:43:56,OAF_base_disgust.wav,DISGUST
+2025-04-09 18:44:04,OAF_base_happy.wav,DISGUST
+2025-04-09 18:51:01,processed_audio.wav,SURPRISED
+2025-04-11 09:03:05,OAF_back_angry.wav,ANGRY
+2025-04-11 09:03:17,OAF_back_disgust.wav,DISGUST
+2025-04-11 09:03:26,OAF_base_fear.wav,FEAR
+2025-04-11 09:03:32,OAF_base_happy.wav,DISGUST
+2025-04-11 09:03:39,OAF_beg_happy.wav,DISGUST
+2025-04-11 09:03:46,OAF_came_happy.wav,UNKNOWN
+2025-04-11 09:03:51,OAF_back_happy.wav,HAPPY
+2025-04-11 09:03:56,OAF_back_neutral.wav,NEUTRAL
+2025-04-11 09:04:04,OAF_bath_sad.wav,SAD
+2025-04-11 09:04:13,YAF_bean_happy.wav,SAD
+2025-04-11 09:04:20,YAF_back_happy.wav,HAPPY
+2025-04-11 09:04:23,YAF_bar_happy.wav,HAPPY
+2025-04-11 09:04:28,YAF_dodge_happy.wav,HAPPY
+2025-04-11 09:46:06,Text,I am good,HAPPY
+2025-04-11 09:46:16,Text,He is so sad,SADNESS
+2025-04-11 09:46:25,Audio,YAF_back_happy.wav,HAPPY
+2025-04-11 09:46:53,Text,sun is so hot,SADNESS
+2025-04-11 10:06:42,Text,I am good,HAPPY
+2025-04-11 10:06:48,Audio,YAF_back_happy.wav,HAPPY
+2025-04-11 10:30:04,Audio,YAF_back_happy.wav,HAPPY
+2025-04-11 10:30:11,Audio,OAF_base_sad.wav,SAD
+2025-04-11 10:30:51,Text,I am happy,HAPPY
+2025-04-11 17:58:13,Audio,OAF_back_sad.wav,SAD,2
+2025-04-11 17:58:22,Text,HI I am sad,SADNESS,0
+2025-04-11 17:58:30,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:31,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:33,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:34,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:34,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:34,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:35,Visual,Camera Frame,HAPPY,1
+2025-04-11 17:58:36,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:36,Visual,Camera Frame,HAPPY,1
+2025-04-11 17:58:37,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:37,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:37,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:38,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:38,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:41,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:42,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:42,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:42,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:42,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:42,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:42,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:43,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:43,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:43,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:43,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:43,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:43,Visual,Camera Frame,ANGRY,4
+2025-04-11 17:58:46,Visual,Camera Frame,ANGRY,4
+2025-04-11 17:58:47,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:47,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:47,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:48,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:48,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:48,Visual,Camera Frame,ANGRY,4
+2025-04-11 17:58:50,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:50,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:51,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:51,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:52,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:52,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:52,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:52,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:52,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:52,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:53,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:53,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:53,Visual,Camera Frame,SAD,2
+2025-04-11 17:58:53,Visual,Camera Frame,NEUTRAL,3
+2025-04-11 17:58:57,Visual,Camera Frame,NEUTRAL,3
+2025-04-14 13:24:11,Audio,OAF_back_angry.wav,ANGRY,4
+2025-04-14 13:24:24,Visual,Camera Frame,NEUTRAL,3
+2025-04-14 13:24:26,Visual,Camera Frame,HAPPY,1
+2025-04-14 13:24:28,Visual,Camera Frame,NEUTRAL,3
+2025-04-14 14:50:14,Text,happ y tofat,NEUTRAL,3
+2025-04-15 01:21:39,Audio,OAF_back_angry.wav,ANGRY,4
+2025-04-15 01:21:52,Audio,OAF_back_disgust.wav,DISGUST,7
+2025-04-15 01:22:38,Audio,OAF_back_fear.wav,HAPPY,1
+2025-04-15 01:22:44,Audio,OAF_bar_fear.wav,FEAR,6
+2025-04-15 01:23:01,Audio,OAF_back_sad.wav,SAD,2
+2025-04-15 01:23:12,Audio,OAF_bar_fear.wav,FEAR,6
+2025-04-15 01:23:22,Audio,OAF_bar_neutral.wav,NEUTRAL,3
+2025-04-15 01:23:44,Audio,OAF_back_angry.wav,ANGRY,4
+2025-04-15 01:24:01,Audio,OAF_base_ps.wav,DISGUST,7
+2025-04-15 01:24:12,Audio,YAF_base_ps.wav,SURPRISED,5
+2025-04-15 01:24:29,Audio,YAF_base_fear.wav,FEAR,6
+2025-04-22 20:39:49,Text,happy,HAPPY,1
+2025-09-27 16:12:39,Text,asas,NEUTRAL,3
+2025-09-27 16:16:42,Audio,OAF_back_angry.wav,ANGRY,4
+2025-10-07 15:48:53,Text,I am happy,HAPPY,1
+2025-10-07 15:48:58,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:48:59,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:01,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:49:01,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:03,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:49:03,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:03,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:49:03,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:04,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:49:04,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:04,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:49:04,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:05,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:49:05,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:05,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:49:05,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:49:14,Audio,OAF_back_angry.wav,ANGRY,4
+2025-10-07 15:55:24,Text,I am happy today,HAPPY,1
+2025-10-07 15:55:57,Audio,OAF_back_disgust.wav,DISGUST,7
+2025-10-07 15:56:30,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:56:31,Visual,Camera Frame,SAD,2
+2025-10-07 15:56:32,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:56:32,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:56:32,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:56:35,Visual,Camera Frame,NEUTRAL,3
+2025-10-07 15:56:37,Visual,Camera Frame,HAPPY,1
+2025-10-07 15:56:37,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:30,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:31,Visual,Camera Frame,HAPPY,1
+2025-11-22 04:13:33,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:35,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:35,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:35,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:36,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:36,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:36,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:36,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:37,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:37,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:38,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:38,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:38,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:38,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:39,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:13:39,Visual,Camera Frame,SAD,2
+2025-11-22 04:13:39,Visual,Camera Frame,NEUTRAL,3
+2025-11-22 04:22:46,Audio,OAF_back_angry.wav,ANGRY
+2025-11-22 04:22:57,Text,i am feeling happy today,HAPPY
+2025-11-22 04:23:03,Visual,Camera Frame,HAPPY
+2025-11-22 04:23:03,Visual,Camera Frame,NEUTRAL
+2025-11-22 04:23:03,Visual,Camera Frame,HAPPY
+2025-11-22 04:23:04,Visual,Camera Frame,NEUTRAL
+2025-11-22 04:23:04,Visual,Camera Frame,HAPPY
+2025-11-22 04:23:31,Audio,OAF_back_fear.wav,HAPPY
+2025-11-22 04:23:40,Text,i am feeling sad today,SADNESS
+2025-11-22 04:23:48,Visual,Camera Frame,NEUTRAL
+2025-11-22 04:44:36,Audio,OAF_bath_fear.wav,FEAR,0.835
+2025-11-22 04:44:50,Text,I am feeling sad,SADNESS,0.990
+2025-11-22 04:45:13,Visual,Camera Frame,HAPPY,0.654
+2025-11-22 04:45:16,Visual,Camera Frame,HAPPY,0.527
+2025-11-22 04:45:17,Visual,Camera Frame,NEUTRAL,0.378
+2025-11-22 04:45:17,Visual,Camera Frame,HAPPY,0.395
+2025-11-22 04:45:17,Visual,Camera Frame,NEUTRAL,0.328
+2025-11-22 04:45:17,Visual,Camera Frame,HAPPY,0.368
+2025-11-22 04:45:17,Visual,Camera Frame,NEUTRAL,0.361
+2025-11-22 04:45:17,Visual,Camera Frame,HAPPY,0.345
+2025-11-22 04:45:18,Visual,Camera Frame,NEUTRAL,0.343
+2025-11-22 04:45:18,Visual,Camera Frame,HAPPY,0.377
+2025-11-22 04:45:21,Visual,Camera Frame,HAPPY,0.528
+2025-11-22 04:55:08,Audio,OAF_bath_happy.wav,HAPPY,0.718
+2025-11-22 04:55:16,Text,happy,HAPPY,0.845
+2025-11-22 04:55:21,Visual,Camera Frame,NEUTRAL,0.660
+2025-11-22 04:55:24,Visual,Camera Frame,NEUTRAL,0.527
+2025-11-22 04:55:26,Visual,Camera Frame,SAD,0.403
+2025-11-22 04:55:27,Visual,Camera Frame,NEUTRAL,0.410
+2025-11-22 04:55:27,Visual,Camera Frame,SAD,0.365
+2025-11-22 04:55:27,Visual,Camera Frame,NEUTRAL,0.500
+2025-11-22 04:55:27,Visual,Camera Frame,SAD,0.391
+2025-11-22 04:55:27,Visual,Camera Frame,NEUTRAL,0.379
+2025-11-22 04:55:28,Visual,Camera Frame,SAD,0.440
+2025-11-22 04:55:28,Visual,Camera Frame,NEUTRAL,0.385
+2025-11-22 04:55:28,Visual,Camera Frame,SAD,0.379
+2025-11-22 04:55:28,Visual,Camera Frame,NEUTRAL,0.375
+2025-11-22 04:55:29,Visual,Camera Frame,SAD,0.378
+2025-11-22 04:55:29,Visual,Camera Frame,NEUTRAL,0.401
+2025-11-22 04:55:29,Visual,Camera Frame,SAD,0.388
+2025-11-22 04:55:29,Visual,Camera Frame,NEUTRAL,0.376
+2025-11-22 04:55:30,Visual,Camera Frame,SAD,0.370
+2025-11-22 04:55:30,Visual,Camera Frame,NEUTRAL,0.495
+2025-11-22 04:55:33,Visual,Camera Frame,NEUTRAL,0.398
+2025-11-22 04:55:33,Visual,Camera Frame,SAD,0.407
+2025-11-22 04:55:33,Visual,Camera Frame,NEUTRAL,0.508
+2025-11-22 04:55:36,Visual,Camera Frame,SAD,0.386
+2025-11-22 05:19:06,Text,I am happy today,HAPPY,0.971
+2025-11-22 05:19:26,Visual,Camera Frame,SAD,0.394
+2025-11-22 05:19:40,Audio,OAF_bar_disgust.wav,DISGUST,0.987
+2025-11-22 05:29:19,Audio,OAF_bar_disgust.wav,DISGUST,0.987
+2025-11-22 05:29:27,Text,sad,SADNESS,0.919
+2025-11-22 05:29:43,Visual,Camera Frame,HAPPY,0.280
+2025-11-22 05:30:41,Audio,OAF_back_disgust.wav,DISGUST,0.982
+2025-11-22 05:45:19,Audio,OAF_bar_disgust.wav,DISGUST,0.987
+2025-11-22 05:45:29,Text,happy,HAPPY,0.845
+2025-11-22 05:45:44,Visual,Camera Frame,SAD,0.385
+2025-11-22 06:20:20,Audio,OAF_back_disgust.wav,DISGUST,0.982
+2025-11-22 06:20:31,Text,happy,HAPPY,0.845
+2025-11-22 06:20:54,Visual,Camera Frame,NEUTRAL,0.459
+2025-11-22 06:40:35,Audio,OAF_back_disgust.wav,DISGUST,0.982
+2025-11-22 06:40:40,Text,happy,HAPPY,0.845
+2025-11-22 06:40:51,Visual,Camera Frame,NEUTRAL,0.458
+2025-11-22 06:43:18,Audio,OAF_bath_disgust.wav,DISGUST,0.980
+2025-11-22 06:43:23,Text,gggg,NEUTRAL,0.398
+2025-11-22 06:43:35,Visual,Camera Frame,NEUTRAL,0.470
+2025-11-22 06:51:17,Audio,OAF_bar_disgust.wav,DISGUST,0.987
+2025-11-22 06:51:37,Text,i am happy today,HAPPY,0.987
+2025-11-22 06:52:01,Visual,Camera Frame,NEUTRAL,0.302
+2025-11-22 06:53:03,Audio,OAF_bar_disgust.wav,DISGUST,0.987
+2025-11-22 06:53:09,Audio,OAF_back_angry.wav,ANGRY,0.997
+2025-11-22 06:53:21,Text,I am sad,SADNESS,0.986
+2025-11-22 06:53:25,Visual,Camera Frame,NEUTRAL,0.484
+2025-11-22 22:00:32,Audio,OAF_base_angry.wav,ANGRY,0.995
+2025-11-22 22:03:32,Audio,OAF_bean_angry.wav,ANGRY,0.657
+2025-11-22 22:04:02,Audio,Recorded Speech,HAPPY,0.850
+2025-11-22 22:04:15,Text,Happy,HAPPY,0.897
+2025-11-30 20:27:25,Audio,Recorded Speech,HAPPY,0.850
+2025-11-30 20:29:41,Text,I am feeling a bit anxious today,FEAR,0.994
+2025-12-02 00:06:46,Text,I am feeling anxious today,FEAR,0.994
+2025-12-02 00:08:56,Audio,Recorded Speech,HAPPY,0.850
+2025-12-02 00:17:00,Text,I am feeling anxious today,FEAR,0.994
+2025-12-02 15:50:52,Text,I am feeling a bit anxious today,FEAR,0.994
+2025-12-02 20:55:52,Text,I am feeling a bit anxious today,FEAR,0.994
+2025-12-03 22:19:03,Text,I am feeling a bit anxious today,FEAR,0.994
+2025-12-03 22:25:20,Audio,Recorded Speech,DISGUST,0.505
+2025-12-03 22:27:37,Text,I am feel extremely sad today,SADNESS,0.989
+2025-12-05 16:57:14,Text,I am sad today,SADNESS,0.984
+2025-12-05 17:02:38,Audio,Recorded Speech,NEUTRAL,0.457
+2025-12-05 17:02:52,Audio,Recorded Speech,NEUTRAL,0.568
+2025-12-05 17:03:21,Audio,Recorded Speech,HAPPY,0.850
+2025-12-05 17:04:34,Visual,Camera Frame,NEUTRAL,0.387
+2025-12-08 10:31:01,Text,I am feeling a bit anxious today,FEAR,0.994
+2025-12-08 10:31:46,Audio,Recorded Speech,DISGUST,0.725
+2025-12-08 10:32:29,Visual,Camera Frame,NEUTRAL,0.285
+2026-01-28 13:55:02,Visual,Camera Frame,NEUTRAL,0.500
+2026-01-28 13:55:18,Visual,Camera Frame,NEUTRAL,0.500
+2026-01-28 13:55:41,Text,I am happy today,HAPPY,0.971
+2026-01-28 13:57:39,Audio,Recorded Speech,HAPPY,0.850
+2026-03-02 10:16:59,Text,"Hi, I am very happy today",HAPPY,0.964
+2026-03-02 10:28:50,Text,hi. i am happy today,HAPPY,0.928
+2026-03-02 10:29:35,Text,"I hav emixed feelings today, sad but also fine",SADNESS,0.988
+2026-03-02 10:32:28,Visual,Camera Frame,NEUTRAL,0.500
+2026-05-14 10:51:40,Visual,Camera Frame,HAPPY,0.972
+2026-05-14 10:52:33,Audio,Recorded Speech,HAPPY,0.850
+2026-05-14 10:52:53,Text,i am vey happy today,HAPPY,0.984
+2026-05-14 12:43:39,Visual,Camera Frame,HAPPY,0.746
+2026-05-14 12:44:44,Text,"I am feeling sad, not up to the mark as of today.",SADNESS,0.989
+2026-05-14 12:45:44,Audio,Recorded Speech,DISGUST,0.564
+2026-05-14 12:45:53,Audio,Recorded Speech,DISGUST,0.987
+2026-05-14 13:01:29,Audio,Recorded Speech,SAD,0.850
+2026-05-14 13:01:39,Text,i feel disgusted,ANGER,0.986
+2026-05-14 13:02:04,Visual,Camera Frame,SAD,0.407
+2026-05-14 13:02:06,Visual,Camera Frame,SAD,0.380

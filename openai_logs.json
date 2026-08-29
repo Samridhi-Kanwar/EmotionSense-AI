@@ -1,0 +1,555 @@
+[
+  {
+    "timestamp": "2025-12-02T20:56:12.145710",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            TEXT: FEAR (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": {
+      "id": "chatcmpl-CiMYUB2fVLEs4MnkKSjkSxXFNvjrs",
+      "model": "gpt-3.5-turbo-0125",
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "1. A brief analysis of what this emotional combination might mean:\nIt seems like you are primarily feeling fear right now, which can often be overwhelming and all-consuming. This fear may be stemming from a variety of sources or triggers in your life.\n\n2. Personalized advice or perspective:\nIt's completely normal to feel fear, but it's important to remember that it doesn't have to control you. Try to identify the root cause of your fear and address it head-on. Remember that you are stronger than you think and capable of overcoming any challenges that come your way.\n\n3. A supportive message that validates their feelings:\nIt's okay to feel scared and vulnerable at times. Your feelings are valid and it's important to acknowledge them. Remember that you are not alone in this, and there are people who care about you and want to support you through this.\n\n4. One practical suggestion for emotional regulation:\nWhen you start feeling overwhelmed by fear, try practicing deep breathing exercises or meditation to help calm your mind and body. Taking a moment to pause and focus on your breath can help you regain control and perspective in challenging moments. Remember, you have the strength within you to overcome your fears."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 238,
+        "total_tokens": 355,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    },
+    "error": null,
+    "emotions": {
+      "camera": "WAITING",
+      "speech": "WAITING",
+      "text": "FEAR"
+    },
+    "confidences": {
+      "camera": 0.0,
+      "speech": 0.0,
+      "text": 0.9938566088676453
+    }
+  },
+  {
+    "timestamp": "2025-12-03T22:23:57.815118",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            TEXT: FEAR (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": {
+      "id": "chatcmpl-CikOyOoa6I7J1AoXOe7jMgscugMQS",
+      "model": "gpt-3.5-turbo-0125",
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "1. A brief analysis of what this emotional combination might mean:\nIt seems like you are primarily feeling fear at the moment, which can be a powerful and overwhelming emotion. It's normal to experience a mix of other emotions along with fear, as it often triggers a range of responses.\n\n2. Personalized advice or perspective:\nIt's important to remember that fear is a natural response to perceived threats or uncertainties. Acknowledging and understanding your fear can be the first step towards managing it effectively. Try to identify the source of your fear and see if there are any practical steps you can take to address it.\n\n3. A supportive message that validates their feelings:\nI want you to know that your fear is valid and understandable. It's okay to feel this way, and you are not alone in experiencing these emotions. Take your time to process and navigate through your feelings at your own pace.\n\n4. One practical suggestion for emotional regulation:\nWhen feeling overwhelmed by fear, try practicing deep breathing exercises or mindfulness techniques. Taking slow, deep breaths can help calm your nervous system and bring you back to the present moment. Remember, it's okay to seek support from loved ones or a mental health professional if you feel you need additional help managing your fear. You are capable of overcoming this and finding a sense of peace."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 117,
+        "completion_tokens": 263,
+        "total_tokens": 380,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    },
+    "error": null,
+    "emotions": {
+      "camera": "WAITING",
+      "speech": "WAITING",
+      "text": "FEAR"
+    },
+    "confidences": {
+      "camera": 0.0,
+      "speech": 0.0,
+      "text": 0.9938566088676453
+    }
+  },
+  {
+    "timestamp": "2025-12-03T22:31:01.903014",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            SPEECH: DISGUST (51% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": {
+      "id": "chatcmpl-CikVmDTRn9O0gMkeR5WyVVprpLviN",
+      "model": "gpt-3.5-turbo-0125",
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Emotional Analysis:\n\nIt seems that you are currently feeling a strong sense of sadness and disgust. This combination of emotions can be overwhelming and may indicate that you are processing something deeply distressing or disturbing.\n\nFirstly, please know that it is completely normal to experience a range of emotions, even when they may seem conflicting or confusing. It's okay to feel what you're feeling right now, and it's important to give yourself the space and time to acknowledge and accept those emotions.\n\nRemember that your feelings are valid, and it's okay to seek support or guidance during this time. Whether it's talking to a trusted friend or seeking professional help, reaching out for support can make a significant difference in how you navigate these emotions.\n\nOne practical suggestion for regulating your emotions could be to engage in activities that help you process and release these feelings. This could include journaling, mindfulness exercises, or engaging in a physical activity that allows you to release built-up tension.\n\nPlease remember that you are not alone in your emotions, and it's okay to ask for help when you need it. Take small steps towards self-care and allow yourself the time and space to heal. You deserve compassion and understanding during this time."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 129,
+        "completion_tokens": 240,
+        "total_tokens": 369,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    },
+    "error": null,
+    "emotions": {
+      "camera": "WAITING",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.0,
+      "speech": 0.5053052306175232,
+      "text": 0.9892808794975281
+    }
+  },
+  {
+    "timestamp": "2025-12-05T17:06:19.030280",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: NEUTRAL (39% confidence)\nSPEECH: HAPPY (85% confidence)\nTEXT: SADNESS (98% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": {
+      "id": "chatcmpl-CjOOfT0NZtXhacPIXUOCn8TtMMwnp",
+      "model": "gpt-3.5-turbo-0125",
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "1. This emotional combination suggests that while you may feel neutral or balanced when looking at things objectively, your speech reflects a sense of happiness or positivity. However, deep down, there seems to be a lingering feeling of sadness that you may be holding onto.\n\n2. It's important to acknowledge that it's okay to experience a mix of emotions. Sometimes, we may put on a happy face or try to stay neutral on the surface, but it's essential to address and process any underlying sadness or emotions that we may be feeling.\n\n3. Your feelings of sadness are valid and important. It's okay to explore and understand why you may be feeling this way. Remember that it's normal to have ups and downs, and reaching out for support or expressing your emotions can be incredibly healing.\n\n4. One practical suggestion for emotional regulation could be to engage in activities that allow you to express your emotions, such as journaling, painting, or talking to a trusted friend or therapist. Finding healthy outlets for your feelings can help you navigate through this emotional landscape with more ease. Remember, you're not alone in how you feel, and it's okay to seek support when needed."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 234,
+        "total_tokens": 373,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    },
+    "error": null,
+    "emotions": {
+      "camera": "NEUTRAL",
+      "speech": "HAPPY",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.38718700408935547,
+      "speech": 0.85,
+      "text": 0.9839003086090088
+    }
+  },
+  {
+    "timestamp": "2025-12-08T10:33:14.978602",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: NEUTRAL (28% confidence)\nSPEECH: DISGUST (72% confidence)\nTEXT: FEAR (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": {
+      "id": "chatcmpl-CkNgucq6uKXaPwpQbes1kkAQw9dFd",
+      "model": "gpt-3.5-turbo-0125",
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "1. The emotional combination of feeling neutral towards the camera, disgust towards speech, and fear through text suggests that you may be feeling a sense of detachment or indifference towards certain aspects of communication, while also experiencing strong aversion and anxiety towards certain content or interactions.\n\n2. It's important to recognize that emotions are complex and can often be conflicting. It's okay to feel a mix of emotions at the same time, and it's a natural part of being human. Try to explore where these feelings are coming from and give yourself permission to acknowledge and process them in a healthy way.\n\n3. Your feelings are valid, and it's okay to feel a range of emotions. It's important to take care of yourself and prioritize your emotional well-being. Remember that it's okay to seek support or take a break if needed. You are not alone in experiencing these emotions.\n\n4. One practical suggestion for emotional regulation could be to practice mindfulness techniques such as deep breathing or meditation. Taking a few moments to center yourself and focus on your breath can help calm your mind and body, allowing you to better manage and navigate the complex emotions you are experiencing. Remember to be gentle with yourself during this process."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 238,
+        "total_tokens": 377,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    },
+    "error": null,
+    "emotions": {
+      "camera": "NEUTRAL",
+      "speech": "DISGUST",
+      "text": "FEAR"
+    },
+    "confidences": {
+      "camera": 0.2848868668079376,
+      "speech": 0.7246071100234985,
+      "text": 0.9938566088676453
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:46:32.229111",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": null,
+    "error": "Invalid header value b'Bearer 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\\n'",
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:47:43.973133",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": null,
+    "error": "Invalid header value b'Bearer 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\\n'",
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:50:54.241303",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": null,
+    "error": "Invalid header value b'Bearer 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\\n'",
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:51:03.133414",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": null,
+    "error": "Invalid header value b'Bearer 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\\n'",
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:52:39.130311",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": null,
+    "error": "Invalid header value b'Bearer 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\\n'",
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:52:43.326292",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": null,
+    "error": "Invalid header value b'Bearer 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\\n'",
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:55:53.330301",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": null,
+    "error": "Invalid header value b'Bearer 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\\n'",
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T12:58:43.243586",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: HAPPY (75% confidence)\nSPEECH: DISGUST (99% confidence)\nTEXT: SADNESS (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": {
+      "id": "chatcmpl-DfKmmp1eIoTT5E2CCfW7Vd3F9ZZF4",
+      "model": "gpt-3.5-turbo-0125",
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "1. This emotional combination might indicate a complex mix of feelings. While the camera aspect of happiness may be linked to positive experiences or memories, the speech aspect of disgust could suggest a strong aversion or disapproval towards something. Additionally, the text aspect of sadness may hint at underlying feelings of sorrow or melancholy. It's important to acknowledge and address each of these emotions individually.\n\n2. It's completely normal to experience a range of emotions, even when they seem contradictory. Remember that emotions are complex and can coexist within us. It's okay to feel happy about certain aspects of your life while also feeling disgusted or sad about others. Allow yourself the space to explore and process these emotions without judgment.\n\n3. Your feelings are valid and deserve to be acknowledged. It's okay to feel a mix of emotions, even if they seem conflicting. It's important to honor and accept your emotions as they come, without trying to suppress or ignore them. Take the time to reflect on what may be triggering these emotions and allow yourself to experience them fully.\n\n4. One practical suggestion for emotional regulation could be to engage in mindfulness practices. Mindfulness can help you become more aware of your emotions without becoming overwhelmed by them. Try focusing on your breath or practicing grounding techniques to bring yourself back to the present moment when you feel overwhelmed by your emotions. Remember, it's okay to seek support from loved ones or a professional if you need help navigating these complex emotions."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 291,
+        "total_tokens": 430,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    },
+    "error": null,
+    "emotions": {
+      "camera": "HAPPY",
+      "speech": "DISGUST",
+      "text": "SADNESS"
+    },
+    "confidences": {
+      "camera": 0.7463478446006775,
+      "speech": 0.9868559241294861,
+      "text": 0.9887728095054626
+    }
+  },
+  {
+    "timestamp": "2026-05-14T13:02:16.208018",
+    "request": {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Generate personalized emotional support content based on the following emotion analysis:\n            \n            Emotional Analysis Summary:\n            CAMERA: SAD (38% confidence)\nSPEECH: SAD (85% confidence)\nTEXT: ANGER (99% confidence)\n            \n            The user is experiencing a combination of emotions. Provide:\n            1. A brief analysis of what this emotional combination might mean\n            2. Personalized advice or perspective\n            3. A supportive message that validates their feelings\n            4. One practical suggestion for emotional regulation\n            \n            Keep the tone warm, empathetic, and professional. Avoid generic phrases. Make it feel personalized."
+        }
+      ],
+      "max_tokens": 300,
+      "temperature": 0.7
+    },
+    "response": {
+      "id": "chatcmpl-DfKqCtq31fVemtqVEziTvor3RaxFy",
+      "model": "gpt-3.5-turbo-0125",
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "1. This emotional combination of sadness and anger across different mediums (camera, speech, text) could indicate a deep sense of hurt or disappointment that the user is feeling. The sadness may stem from a feeling of loss or longing, while the anger could be a response to feeling misunderstood or frustrated.\n\n2. It's important to acknowledge and validate your emotions, even if they may feel conflicting or overwhelming. Allow yourself to sit with these feelings and explore where they may be coming from. Remember that it's okay to feel sad and angry, and it's a natural response to challenging situations.\n\n3. I want you to know that your feelings are valid and it's okay to feel the way you do. It's important to give yourself permission to experience and express your emotions, as they are a crucial part of the healing process. Remember that you are not alone in your emotions, and there are always people who care about you and are willing to support you.\n\n4. One practical suggestion for emotional regulation could be to try journaling as a way to express and process your feelings. Writing down your thoughts and emotions can help you gain clarity and insight into what may be triggering your sadness and anger. It can also serve as a healthy outlet for releasing pent-up emotions. Take some time each day to write about how you're feeling and reflect on any patterns or triggers you may notice."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 137,
+        "completion_tokens": 275,
+        "total_tokens": 412,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    },
+    "error": null,
+    "emotions": {
+      "camera": "SAD",
+      "speech": "SAD",
+      "text": "ANGER"
+    },
+    "confidences": {
+      "camera": 0.3804876208305359,
+      "speech": 0.85,
+      "text": 0.9862261414527893
+    }
+  }
+]
